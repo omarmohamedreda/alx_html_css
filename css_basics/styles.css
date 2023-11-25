@@ -1,0 +1,32 @@
+body {
+    background-image: url(Pic/pexels-pixabay-38537.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    display: column;
+    flex-direction:flex
+}
+
+header{
+    width: 100%;
+    color: azure;
+}
+
+main{
+    color: azure;
+    display: flex;
+    flex-direction: row;
+    flex: auto
+}
+
+article{
+    color: azure;
+    flex: 2;
+    overflow-y: auto
+}
+
+aside{
+    color: azure;
+    flex: 1;
+    overflow-y: auto
+}
