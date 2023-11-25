@@ -1,0 +1,130 @@
+header{
+    background-color: rgb(203, 206, 228);
+    width: 100%;
+    position:fixed;
+    z-index: 999;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    padding: 0px 0px;
+}
+.main{
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    background: url(pho/headphones_hero_1.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.main h2{
+    font-weight: 2000;
+    color: rgb(18, 13, 11);
+    font-size: xx-large;
+    justify-content:center;
+    padding: 0px 500px;
+
+}
+
+button{
+    color: rgb(13, 12, 13);
+    background-color: rgb(104, 154, 140);
+    text-decoration: none;
+    font-size: 1em;
+    font-weight: 500;
+    display: inline-block;
+    padding: 5px;
+    border-radius: 10px;
+    margin-bottom: 30px
+}
+
+}
+
+.main h2 span{
+    font-weight: 1500;
+    color: rgb(18, 13, 11);
+    font-size:medium;
+    justify-content: space-around;
+    margin: 1cm;
+}
+
+.W{
+    text-decoration: none;
+    color: rgb(74, 74, 179);
+    font-weight: 500;
+    font-size: l larger;
+    padding-left: 30px;
+}
+
+.O{
+    text-decoration: none;
+    color: rgb(74, 74, 179);
+    font-weight: 500;
+    font-size: l larger;
+    padding-left: 30px;
+}
+
+.C{
+    text-decoration: none;
+    color: rgb(74, 74, 179);
+    font-weight: 500;
+    font-size: l larger;
+    padding-left: 30px;
+}
+*{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+
+.title {
+    display: flex;
+    justify-content: center;
+    color: rgb(74, 74, 179);
+    font-size: 2.2em;
+    font-weight: 300;
+    margin-bottom: 30px;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+.third{
+    background-image: url(pho/headphones_hero_2.jpg);
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.third h2{
+    font-weight: 2000;
+    color: rgb(255, 255, 255);
+    font-size: medium;
+    justify-content:center;
+    padding: 0px 500px;
+}
+
+.third h2 span{
+    font-weight: 1500;
+    color: rgb(255, 255, 255);
+    font-size:small;
+    justify-content: space-around;
+    margin: 1cm;
+}
+
+
+.alert{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
