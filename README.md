@@ -26,9 +26,6 @@ Welcome to the ALX HTML & CSS Projects Repository! This repository contains a co
 
 
 
----
-
-
 ## Author
 
 Created by [Omar Mohamed](https://github.com/omarmohamedreda). Feel free to connect with me for collaborations, feedback, or opportunities.
